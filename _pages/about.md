@@ -23,7 +23,7 @@ Previously, I got Ph.D. degree from Leiden University in 2022 and supervised by 
 My research interest includes lifelong learning, federated learning, and popular computer vision tasks like person re-identification, visual question answering and novel/new category discovery. 
 
 # 🔥 News
-- *2023.03*: &nbsp;🎉🎉 One paper is accepted by <strong>CVPR 2023</strong>.</p></li>
+- *2023.03*: &nbsp;🎉🎉 One paper is accepted by <strong>CVPR 2023</strong>.
 
 
 
@@ -117,20 +117,15 @@ My research interest includes lifelong learning, federated learning, and popular
 
 </div>
 </div>
----
-# 🎖 Honors and Awards
-- *2019.06* CSC, China. 
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=868686&w=530&t=tt&d=Tqpk_h7toGxUH-BshURkYMTaJQ0K3OsVUvFkW4SY-sU&co=ffffff&ct=000000'></script>
+</div>
+</div>
 
-# 📖 Educations
-- *2023.01 - *, Postdoc, University of Trento.
-- *2018.10 - 2022.12*, Ph.D, Leiden University. 
-
-
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
----
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/jquery.poptrox.min.js"></script>
+<script src="assets/js/browser.min.js"></script>
+<script src="assets/js/breakpoints.min.js"></script>
+<script src="assets/js/util.js"></script>
+<script src="assets/js/main.js"></script>
