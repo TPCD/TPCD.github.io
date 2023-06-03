@@ -70,9 +70,7 @@ My research interest includes lifelong learning, federated learning, and popular
                     <strong>Nan Pu</strong>, Wei Chen, Yu Liu*, Erwin M. Bakker, Michael S. Lew<br>
                     IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2021.
                     <a href="https://arxiv.org/abs/2103.12462" target="_blank"><font face="Times New Roman"
-                                                                                     style="font-size: 10pt;">[PDF]</font></a>
-                    <a href="https://github.com/TPCD/LifelongReID" target="_blank"><font face="Times New Roman"
-                                                                                         style="font-size: 10pt;">[Github]</font></a>
+                                                                                     style="font-size: 10pt;">[PDF]</font></a><a href="https://github.com/TPCD/LifelongReID" target="_blank"><font face="Times New Roman"  style="font-size: 10pt;">[Github]</font></a>
 </div>
 </div>
 
@@ -99,7 +97,7 @@ My research interest includes lifelong learning, federated learning, and popular
 
                   
 <strong>Learning a Domain-Invariant Embedding for Unsupervised Person Re-identification</strong><br>
-                    <strong>Pu, Nan</strong> and Georgiou, TK and Bakker, Erwin M and Lew, Michael S<br>
+                    <strong>Nan Pu</strong>, T.K. Georgiou, Erwin M. Bakker and Michael S. Lew<br>
                     2019 International Joint Conference on Neural Networks (<strong>IJCNN, Oral</strong>), 2019.
                     <a href="pdfs/pu2019.pdf" target="_blank"><font face="Times New Roman" style="font-size: 10pt;">[PDF]</font></a>
 
