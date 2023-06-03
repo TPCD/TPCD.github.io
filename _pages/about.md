@@ -66,17 +66,6 @@ My research interest includes lifelong learning, federated learning, and popular
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
-<strong>From Superficial to Deep: Language Bias driven Curriculum Learning for Visual Question
-                        Answering</strong><br>
-                    Mingrui Lao, Yanming Guo, Yu Liu, Wei Chen, <strong>Nan Pu</strong>, Michael S. Lew<br>
-                    ACM International Conference on Multimedia (<strong>MM</strong>), 2021.<br>
-
-</div>
-</div>
-
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
-
 <strong>Lifelong Person Re-Identification via Adaptive Knowledge Accumulation</strong><br>
                     <strong>Nan Pu</strong>, Wei Chen, Yu Liu*, Erwin M. Bakker, Michael S. Lew<br>
                     IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2021.
@@ -117,7 +106,7 @@ My research interest includes lifelong learning, federated learning, and popular
 
 </div>
 </div>
-<div class='paper-box'>
+<div class='paper-box'><div class="badge">Thanks for your attention! </div>
 <div class='paper-box-text' markdown="1">
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=868686&w=530&t=tt&d=Tqpk_h7toGxUH-BshURkYMTaJQ0K3OsVUvFkW4SY-sU&co=ffffff&ct=000000'></script>
 </div>
