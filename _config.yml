@@ -7,9 +7,7 @@
 
 # Site Settings
 title                    : "Nan Pu"
-description              : "Recently, I am a postdoctoral researcher at the Multimedia and Human Understanding Group (MHUG) of University of Trento and working with Prof. Nicu Sebe.
-                             Previously, I got Ph.D. degree from Leiden University in 2022 and supervised by Prof. Michael Lew. During my Ph.D. study, I worked with Dr. Zhun Zhong and Dr.
-                             Yu Liu."
+description              : "postdoctoral researcher of deep learning"
 repository               : "TPCD/TPCD.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Nan Pu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Multimedia and Human Understanding Group (MHUG)"
   location         : "Trento, Italy"
   employer         : "University of Trento"
   pubmed           : 
