@@ -30,7 +30,7 @@ My research interest includes lifelong learning, federated learning, and popular
 <div class='paper-box-text' markdown="1">
 
 <strong>A Memorizing and Generalizing Framework for Lifelong Person Re-Identification</strong><br>
-<strong>Nan Pu</strong>, Zhun Zhong*, Nicu Sebe，<br>
+<strong>Nan Pu</strong>, Zhun Zhong*, Nicu Sebe, Michael S. Lew<br>
                     Transactions on Pattern Analysis and Machine Intelligence (<strong>T-PAMI</strong>), 2023.<br>
 
 </div>
