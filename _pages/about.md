@@ -18,7 +18,7 @@ My research interest includes lifelong learning, federated learning, and popular
 
 # 🔥 News
 
-- *2023.07*: &nbsp;🎉🎉 One paper is accepted by <strong>PAMI 2023</strong>.
+- *2023.07*: &nbsp;🎉🎉 One paper is accepted by <strong>T-PAMI 2023</strong>.
 
 - *2023.03*: &nbsp;🎉🎉 One paper is accepted by <strong>CVPR 2023</strong>.
 
@@ -29,9 +29,9 @@ My research interest includes lifelong learning, federated learning, and popular
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
-<strong></strong><br>
-                    <strong>Nan Pu</strong>, Zhun Zhong*, Nicu Sebe，<br>
-                    IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2023.<br>
+<strong>A Memorizing and Generalizing Framework for Lifelong Person Re-Identification</strong><br>
+<strong>Nan Pu</strong>, Zhun Zhong*, Nicu Sebe，<br>
+                    Transactions on Pattern Analysis and Machine Intelligence (<strong>T-PAMI</strong>), 2023.<br>
 
 </div>
 </div>
@@ -39,10 +39,9 @@ My research interest includes lifelong learning, federated learning, and popular
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
-<strong>A Memorizing and Generalizing Framework for Lifelong Person Re-Identification</strong><br>
-                    <strong>Nan Pu</strong>, Zhun Zhong*, Nicu Sebe， Michael S. Lew<br>
-                    Transactions on Pattern Analysis and Machine Intelligence (<strong>PAMI</strong>), 2023.<br>
-
+<strong>Dynamic Conceptional Contrastive Learning for Generalized Category Discovery</strong><br>
+                    <strong>Nan Pu</strong>, Zhun Zhong*, Nicu Sebe<br>
+                    IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2023.<br>
 </div>
 </div>
 
