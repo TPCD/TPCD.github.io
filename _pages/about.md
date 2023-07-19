@@ -109,7 +109,7 @@ My research interest includes lifelong learning, federated learning, and popular
 
 </div>
 </div>
-<div class='paper-box'><div class="badge">Thanks for your attention! </div>
+<div class='paper-box'><div class="badge">🎉</div>
 <div class='paper-box-text' markdown="1">
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=868686&w=530&t=tt&d=Tqpk_h7toGxUH-BshURkYMTaJQ0K3OsVUvFkW4SY-sU&co=ffffff&ct=000000'></script>
 </div>
