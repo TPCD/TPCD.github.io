@@ -31,7 +31,7 @@ My research interest includes lifelong learning, federated learning, and popular
 <div class='paper-box-text' markdown="1">
 
 <strong>FedVQA: Personalized Federated Visual Question Answering over Heterogeneous Scenes</strong><br>
-Mingrui Lao，<strong>Nan Pu*</strong>, Zhun Zhong, Nicu Sebe, Michael S. Lew<br>
+Mingrui Lao, <strong>Nan Pu*</strong>, Zhun Zhong, Nicu Sebe, Michael S. Lew<br>
                     ACM International Conference on Multimedia (<strong>MM</strong>), 2023.<br>
 
 </div>
@@ -51,8 +51,8 @@ Mingrui Lao, <strong>Nan Pu*</strong>, Yu Liu, Zhun Zhong, Erwin M. Bakker, Nicu
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
-<strong>Multi-Domain Lifelong Visual Question Answering via Self-Critical Distillation</strong><br>
-Yalan Qin, <strong>Nan Pu</strong>, Hanzhou Wu.<br>
+<strong>Elastic Multi-view Subspace Clustering with Pairwise and High-order Correlations</strong><br>
+Yalan Qin, <strong>Nan Pu</strong>, Hanzhou Wu<br>
                     Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>), 2023.<br>
 
 </div>
