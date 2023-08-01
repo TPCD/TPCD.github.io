@@ -17,21 +17,53 @@ Previously, I got Ph.D. degree from Leiden University in 2022 and supervised by 
 My research interest includes lifelong learning, federated learning, and popular computer vision tasks like person re-identification, visual question answering and novel/new category discovery. 
 
 # 🔥 News
+- *2023.08*: &nbsp;🎉🎉 Two papers are accepted by <strong>ACM MM 2023</strong>. Congratulation to Mingrui!
 
-- *2023.07*: &nbsp;🎉🎉 One paper is accepted by <strong>T-PAMI 2023</strong>.
+- *2023.07*: &nbsp;🎉🎉 One paper is accepted by <strong>TKDE 2023</strong>. Congratulation to Yalan!
+
+- *2023.07*: &nbsp;🎉🎉 One paper is accepted by <strong>TPAMI 2023</strong>.
 
 - *2023.03*: &nbsp;🎉🎉 One paper is accepted by <strong>CVPR 2023</strong>.
 
 
-
 # 📝 Publications 
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+
+<strong>FedVQA: Personalized Federated Visual Question Answering over Heterogeneous Scenes</strong><br>
+Mingrui Lao，<strong>Nan Pu*</strong>, Zhun Zhong, Nicu Sebe, Michael S. Lew<br>
+                    ACM International Conference on Multimedia (<strong>MM</strong>), 2023.<br>
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+
+<strong>Multi-Domain Lifelong Visual Question Answering via Self-Critical Distillation</strong><br>
+Mingrui Lao, <strong>Nan Pu*</strong>, Yu Liu, Zhun Zhong, Erwin M. Bakker, Nicu Sebe, Michael S. Lew<br>
+                    ACM International Conference on Multimedia (<strong>MM</strong>), 2023.<br>
+
+</div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+
+<strong>Multi-Domain Lifelong Visual Question Answering via Self-Critical Distillation</strong><br>
+Yalan Qin, <strong>Nan Pu</strong>, Hanzhou Wu.<br>
+                    Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>), 2023.<br>
+
+</div>
+</div>
 
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
 <strong>A Memorizing and Generalizing Framework for Lifelong Person Re-Identification</strong><br>
 <strong>Nan Pu</strong>, Zhun Zhong*, Nicu Sebe, Michael S. Lew<br>
-                    Transactions on Pattern Analysis and Machine Intelligence (<strong>T-PAMI</strong>), 2023.<br>
+                    Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2023.<br>
 
 </div>
 </div>
