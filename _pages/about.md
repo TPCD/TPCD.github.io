@@ -12,7 +12,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Recently, I am a postdoctoral researcher at the <a href="http://mhug.disi.unitn.it/#/">Multimedia and Human Understanding Group (MHUG)</a> of University of Trento and working with <a href="https://disi.unitn.it/~sebe/">Prof. Nicu Sebe</a>.
-Previously, I got Ph.D. degree from Leiden University in 2022 and supervised by <a href="https://disi.unitn.it/~sebe/">Prof. Michael Lew</a>. During my Ph.D. study, I worked with <a href="https://zhunzhong.site/">Dr. Zhun Zhong</a> and <a href="https://liuyudut.github.io/">Dr. Yu Liu</a>.
+Previously, I got Ph.D. degree from Leiden University in 2022, supervised by <a href="https://disi.unitn.it/~sebe/">Prof. Michael Lew</a>. During my Ph.D. study, I worked with <a href="https://zhunzhong.site/">Dr. Zhun Zhong</a> and <a href="https://liuyudut.github.io/">Dr. Yu Liu</a>.
 
 My research interest includes lifelong learning, federated learning, and popular computer vision tasks like person re-identification, visual question answering and novel/new category discovery. 
 
