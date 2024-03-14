@@ -17,6 +17,8 @@ Previously, I got Ph.D. degree from Leiden University in 2022, supervised by <a 
 My research interest includes lifelong learning, federated learning, and popular computer vision tasks like person re-identification, visual question answering and novel/new category discovery. 
 
 # 🔥 News
+- *2024.02*: &nbsp;🎉🎉 Two papers are accepted by <strong>CVPR 2024</strong>. Congratulation to Yaqi!
+
 - *2023.08*: &nbsp;🎉🎉 Two papers are accepted by <strong>ACM MM 2023</strong>. Congratulation to Mingrui!
 
 - *2023.07*: &nbsp;🎉🎉 One paper is accepted by <strong>TKDE 2023</strong>. Congratulation to Yalan!
@@ -27,6 +29,27 @@ My research interest includes lifelong learning, federated learning, and popular
 
 
 # 📝 Publications 
+
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+
+<strong>Novel Class Discovery for Ultra-Fine-Grained Visual Categorization</strong><br>
+                    Yu Liu, Yaqi Cai, Qi Jia*, Binglin Qiu, Weimin Wang, <strong>Nan Pu</strong><br>
+                    IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024.<br>
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+
+<strong>Federated Generalized Category Discovery</strong><br>
+                    <strong>Nan Pu</strong>, Wenjing Li, Xingyuan Ji, Yalan Qin, Sebe Nicu, Zhun Zhong<br>
+                    IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024.<br>
+</div>
+</div>
+
+
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
