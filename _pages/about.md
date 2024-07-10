@@ -17,6 +17,9 @@ Previously, I got Ph.D. degree from Leiden University in 2022, supervised by <a 
 My research interest includes lifelong learning, federated learning, and popular computer vision tasks like person re-identification, visual question answering and novel/new category discovery. 
 
 # 🔥 News
+
+- *2024.07*: &nbsp;🎉🎉 Two papers are accepted by <strong>ECCV 2024</strong>. Congratulation to Haiyang and Fengxiang!
+
 - *2024.02*: &nbsp;🎉🎉 Two papers are accepted by <strong>CVPR 2024</strong>. Congratulation to Yaqi!
 
 - *2023.08*: &nbsp;🎉🎉 Two papers are accepted by <strong>ACM MM 2023</strong>. Congratulation to Mingrui!
@@ -29,13 +32,31 @@ My research interest includes lifelong learning, federated learning, and popular
 
 
 # 📝 Publications 
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
 
+<strong>Learning to Distinguish Samples for Generalized Category Discovery</strong><br>
+                    Fengxiang Yang*, <strong>Nan Pu*<strong>, Wenjing Li, Zhiming Luo, Shaozi Li, Nicu Sebe, and Zhun Zhong<br>
+                    European Conference on Computer Vision (<strong>ECCV</strong>), 2024.<br>
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+
+
+
+<strong>Textual Knowledge Matters: Cross-Modality Co-Teaching for Generalized Visual Class Discovery</strong><br>
+                    Haiyang Zheng⋆, <strong>Nan Pu*<strong>, Wenjing Li, Nicu Sebe, and Zhun Zhong
+                    European Conference on Computer Vision (<strong>ECCV</strong>), 2024.<br>
+</div>
+</div>
 
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
 <strong>Novel Class Discovery for Ultra-Fine-Grained Visual Categorization</strong><br>
-                    Yu Liu, Yaqi Cai, Qi Jia*, Binglin Qiu, Weimin Wang, <strong>Nan Pu</strong><br>
+                    Yu Liu, Yaqi Cai, Qi Jia, Binglin Qiu, Weimin Wang, <strong>Nan Pu</strong><br>
                     IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024.<br>
 </div>
 </div>
@@ -54,7 +75,7 @@ My research interest includes lifelong learning, federated learning, and popular
 <div class='paper-box-text' markdown="1">
 
 <strong>FedVQA: Personalized Federated Visual Question Answering over Heterogeneous Scenes</strong><br>
-Mingrui Lao, <strong>Nan Pu*</strong>, Zhun Zhong, Nicu Sebe, Michael S. Lew<br>
+Mingrui Lao, <strong>Nan Pu†</strong>, Zhun Zhong, Nicu Sebe, Michael S. Lew<br>
                     ACM International Conference on Multimedia (<strong>MM</strong>), 2023.<br>
 
 </div>
@@ -64,7 +85,7 @@ Mingrui Lao, <strong>Nan Pu*</strong>, Zhun Zhong, Nicu Sebe, Michael S. Lew<br>
 <div class='paper-box-text' markdown="1">
 
 <strong>Multi-Domain Lifelong Visual Question Answering via Self-Critical Distillation</strong><br>
-Mingrui Lao, <strong>Nan Pu*</strong>, Yu Liu, Zhun Zhong, Erwin M. Bakker, Nicu Sebe, Michael S. Lew<br>
+Mingrui Lao, <strong>Nan Pu†</strong>, Yu Liu, Zhun Zhong, Erwin M. Bakker, Nicu Sebe, Michael S. Lew<br>
                     ACM International Conference on Multimedia (<strong>MM</strong>), 2023.<br>
 
 </div>
@@ -85,7 +106,7 @@ Yalan Qin, <strong>Nan Pu</strong>, Hanzhou Wu<br>
 <div class='paper-box-text' markdown="1">
 
 <strong>A Memorizing and Generalizing Framework for Lifelong Person Re-Identification</strong><br>
-<strong>Nan Pu</strong>, Zhun Zhong*, Nicu Sebe, Michael S. Lew<br>
+<strong>Nan Pu</strong>, Zhun Zhong, Nicu Sebe, Michael S. Lew<br>
                     Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2023.<br>
 
 </div>
@@ -95,7 +116,7 @@ Yalan Qin, <strong>Nan Pu</strong>, Hanzhou Wu<br>
 <div class='paper-box-text' markdown="1">
 
 <strong>Dynamic Conceptional Contrastive Learning for Generalized Category Discovery</strong><br>
-                    <strong>Nan Pu</strong>, Zhun Zhong*, Nicu Sebe<br>
+                    <strong>Nan Pu</strong>, Zhun Zhong, Nicu Sebe<br>
                     IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2023.<br>
 </div>
 </div>
@@ -127,7 +148,7 @@ Yalan Qin, <strong>Nan Pu</strong>, Hanzhou Wu<br>
 <div class='paper-box-text' markdown="1">
 
 <strong>Lifelong Person Re-Identification via Adaptive Knowledge Accumulation</strong><br>
-                    <strong>Nan Pu</strong>, Wei Chen, Yu Liu*, Erwin M. Bakker, Michael S. Lew<br>
+                    <strong>Nan Pu</strong>, Wei Chen, Yu Liu, Erwin M. Bakker, Michael S. Lew<br>
                     IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2021.
                     <a href="https://arxiv.org/abs/2103.12462" target="_blank"><font face="Times New Roman"
                                                                                      style="font-size: 10pt;">[PDF]</font></a><a href="https://github.com/TPCD/LifelongReID" target="_blank"><font face="Times New Roman"  style="font-size: 10pt;">[Github]</font></a>
@@ -166,7 +187,7 @@ Yalan Qin, <strong>Nan Pu</strong>, Hanzhou Wu<br>
 </div>
 
 
-##### (* corresponding author)
+##### (* denotes equal contribution and  † denotes corresponding author)
 
 <div class='paper-box'><div class="badge">🎉</div>
 <div class='paper-box-text' markdown="1">
