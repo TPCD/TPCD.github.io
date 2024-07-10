@@ -36,7 +36,7 @@ My research interest includes lifelong learning, federated learning, and popular
 <div class='paper-box-text' markdown="1">
 
 <strong>Learning to Distinguish Samples for Generalized Category Discovery</strong><br>
-                    Fengxiang Yang*, <strong>Nan Pu*<strong>, Wenjing Li, Zhiming Luo, Shaozi Li, Nicu Sebe, and Zhun Zhong<br>
+                    Fengxiang Yang*, <strong>Nan Pu*</strong>, Wenjing Li, Zhiming Luo, Shaozi Li, Nicu Sebe, and Zhun Zhong<br>
                     European Conference on Computer Vision (<strong>ECCV</strong>), 2024.<br>
 </div>
 </div>
@@ -47,7 +47,7 @@ My research interest includes lifelong learning, federated learning, and popular
 
 
 <strong>Textual Knowledge Matters: Cross-Modality Co-Teaching for Generalized Visual Class Discovery</strong><br>
-                    Haiyang Zheng⋆, <strong>Nan Pu*<strong>, Wenjing Li, Nicu Sebe, and Zhun Zhong
+                    Haiyang Zheng⋆, <strong>Nan Pu*</strong>, Wenjing Li, Nicu Sebe, and Zhun Zhong
                     European Conference on Computer Vision (<strong>ECCV</strong>), 2024.<br>
 </div>
 </div>
