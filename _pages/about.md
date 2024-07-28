@@ -125,7 +125,7 @@ Yalan Qin, <strong>Nan Pu</strong>, Hanzhou Wu<br>
 <div class='paper-box-text' markdown="1">
 
  <strong>COCA: COllaborative CAusal Regularization for Audio-Visual Question Answering</strong><br>
-                    Mingrui Lao, <strong>Nan Pu*</strong>, Yu Liu, Kai He, Erwin M. Bakker, Michael S. Lew<br>
+                    Mingrui Lao, <strong>Nan Pu†</strong>, Yu Liu, Kai He, Erwin M. Bakker, Michael S. Lew<br>
                     Association for the Advancement of Artificial Intelligence (<strong>AAAI</strong>), 2023.<br>
 
 </div>
