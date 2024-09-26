@@ -18,6 +18,8 @@ My research interest includes continual/incremental/lifelong learning, federated
 
 # 🔥 News
 
+- *2024.09*: &nbsp;🎉🎉 One paper is accepted by <strong>NIPS 2024</strong>. Congratulation to Haiyang!
+
 - *2024.07*: &nbsp;🎉🎉 Two papers are accepted by <strong>ECCV 2024</strong>. Congratulation to Haiyang and Fengxiang!
 
 - *2024.02*: &nbsp;🎉🎉 Two papers are accepted by <strong>CVPR 2024</strong>. Congratulation to Yaqi!
@@ -32,6 +34,18 @@ My research interest includes continual/incremental/lifelong learning, federated
 
 
 # 📝 Publications 
+
+
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+
+<strong>Prototypical Hash Encoding for On-the-Fly Fine-Grained Category Discovery</strong><br>
+                    Haiyang Zheng*, <strong>Nan Pu*</strong>, Wenjing Li, Nicu Sebe, and Zhun Zhong. <br>
+                    Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024.<br>
+</div>
+</div>
+
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
