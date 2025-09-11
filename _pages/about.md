@@ -18,6 +18,12 @@ My research interest includes continual/incremental/lifelong learning, federated
 
 # 🔥 News
 
+- *2025.09*: &nbsp;🎉🎉 One paper is accepted by <strong>TPAMI 2025</strong>. Congratulation to Dong!
+
+- *2025.07*: &nbsp;🎉🎉 One paper is accepted by <strong>ICCV 2025</strong>. Congratulation to Xiao!
+
+- *2025.02*: &nbsp;🎉🎉 One paper is accepted by <strong>TIP 2025</strong>. Congratulation to Yalan!
+
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted by <strong>NIPS 2024</strong>. Congratulation to Haiyang!
 
 - *2024.07*: &nbsp;🎉🎉 Two papers are accepted by <strong>ECCV 2024</strong>. Congratulation to Haiyang and Fengxiang!
@@ -35,6 +41,38 @@ My research interest includes continual/incremental/lifelong learning, federated
 
 # 📝 Publications 
 
+
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+
+<strong>SeCoV2: Semantic Connectivity-driven Pseudo-Labeling for Robust Cross-Domain Semantic Segmentation</strong><br>
+                    Dong Zhao, Qi Zang, <strong>Nan Pu*</strong>, Shuang Wang, Nicu Sebe, Zhun Zhong. <br>
+                    Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2025.<br>
+</div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+
+<strong>Generate, Refine, and Encode: Leveraging Synthesized Novel Samples for On-the-Fly Fine-Grained Category Discovery</strong><br>
+                    Xiao Liu*, <strong>Nan Pu*</strong>, Haiyang Zheng, Wenjing Li, Nicu Sebe, Zhun Zhong. <br>
+                    International Conference on Computer Vision (<strong>ICCV</strong>), 2025.<br>
+</div>
+</div>
+
+
+
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+
+<strong>Latent Space Learning Based Ensemble Clustering</strong><br>
+                    Yalan Qin, <strong>Nan Pu*</strong>, Nicu Sebe, Guorui Feng. <br>
+                    IEEE Transactions on Image Processing (<strong>TIP</strong>), 2025.<br>
+</div>
+</div>
 
 
 <div class='paper-box'>
@@ -71,7 +109,7 @@ My research interest includes continual/incremental/lifelong learning, federated
 
 <strong>Novel Class Discovery for Ultra-Fine-Grained Visual Categorization</strong><br>
                     Yu Liu, Yaqi Cai, Qi Jia, Binglin Qiu, Weimin Wang, <strong>Nan Pu</strong><br>
-                    IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024.<br>
+                    Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024.<br>
 </div>
 </div>
 
@@ -80,7 +118,7 @@ My research interest includes continual/incremental/lifelong learning, federated
 
 <strong>Federated Generalized Category Discovery</strong><br>
                     <strong>Nan Pu</strong>, Wenjing Li, Xingyuan Ji, Yalan Qin, Sebe Nicu, Zhun Zhong<br>
-                    IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024.<br>
+                    Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024.<br>
 </div>
 </div>
 
@@ -131,7 +169,7 @@ Yalan Qin, <strong>Nan Pu</strong>, Hanzhou Wu<br>
 
 <strong>Dynamic Conceptional Contrastive Learning for Generalized Category Discovery</strong><br>
                     <strong>Nan Pu</strong>, Zhun Zhong, Nicu Sebe<br>
-                    IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2023.<br>
+                    Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2023.<br>
 </div>
 </div>
 
@@ -163,7 +201,7 @@ Yalan Qin, <strong>Nan Pu</strong>, Hanzhou Wu<br>
 
 <strong>Lifelong Person Re-Identification via Adaptive Knowledge Accumulation</strong><br>
                     <strong>Nan Pu</strong>, Wei Chen, Yu Liu, Erwin M. Bakker, Michael S. Lew<br>
-                    IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2021.
+                    Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2021.
                     <a href="https://arxiv.org/abs/2103.12462" target="_blank"><font face="Times New Roman"
                                                                                      style="font-size: 10pt;">[PDF]</font></a><a href="https://github.com/TPCD/LifelongReID" target="_blank"><font face="Times New Roman"  style="font-size: 10pt;">[Github]</font></a>
 </div>
