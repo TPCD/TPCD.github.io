@@ -50,6 +50,57 @@
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="assets/css/main.css">
+<style>
+  .team-section {
+    margin-top: 3rem;
+    border-top: 1px solid #e0e0e0;
+    padding-top: 2rem;
+  }
+  .team-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 1.5rem;
+  }
+  .team-card {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 1.25rem;
+    border-radius: 12px;
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
+    background: #fff;
+  }
+  .team-card img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #f2f2f2;
+  }
+  .team-meta {
+    font-size: 0.95rem;
+    line-height: 1.4;
+  }
+  .team-meta strong {
+    font-size: 1.05rem;
+  }
+  .team-groups {
+    margin-top: 2rem;
+    padding: 1.5rem;
+    border-radius: 12px;
+    background: #fafafa;
+    border: 1px dashed rgba(0, 0, 0, 0.15);
+  }
+  .team-group + .team-group {
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 1px solid rgba(0, 0, 0, 0.08);
+  }
+  .team-group h3 {
+    margin-bottom: 0.5rem;
+  }
+</style>
 
 <meta http-equiv="cleartype" content="on">
 <head>
@@ -99,6 +150,8 @@
             <li class="masthead__menu-item"><a href="/#-news">News</a></li>
           
             <li class="masthead__menu-item"><a href="/#-publications">Publications</a></li>
+          
+            <li class="masthead__menu-item"><a href="/#team-member">Team Member</a></li>
           
         </ul>
         <ul class="hidden-links hidden"></ul>
@@ -313,6 +366,53 @@ Previously, I got Ph.D. degree from Leiden University in 2022 and supervised by 
 <div class="paper-box-text">
     <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=868686&amp;w=530&amp;t=tt&amp;d=Tqpk_h7toGxUH-BshURkYMTaJQ0K3OsVUvFkW4SY-sU&amp;co=ffffff&amp;ct=000000"></script>
 
+  </div>
+</div>
+
+<h1 id="team-member">👥 Team Member</h1>
+<div class="team-section">
+  <p>This tab highlights our lab members in a structured, easy-to-extend layout covering their avatar, academic background, and research focus.</p>
+  <div class="team-grid">
+    <article class="team-card">
+      <img src="images/android-chrome-512x512.png" alt="Dr. Alex Lee portrait">
+      <div class="team-meta">
+        <strong>Dr. Alex Lee</strong><br>
+        Ph.D. (Computer Vision, University of Trento)<br>
+        Focus: Lifelong learning under federated settings for embodied AI.
+      </div>
+    </article>
+    <!-- Duplicate the article.team-card block above to add more members -->
+  </div>
+
+  <!-- Template kept for future dynamic rendering or includes -->
+  <template id="team-card-template">
+    <article class="team-card">
+      <img src="images/placeholder-avatar.png" alt="Member avatar">
+      <div class="team-meta">
+        <strong>Member Name</strong><br>
+        Degree/Institution<br>
+        Focus: Short summary of research directions.
+      </div>
+    </article>
+  </template>
+
+  <div class="team-groups">
+    <h2>Member Groups Showcase</h2>
+    <div class="team-group">
+      <h3>Perception & Multimodal Understanding</h3>
+      <ul>
+        <li>Dr. Jane Doe — Ph.D. (Leiden University) — Visual grounding and QA.</li>
+        <li>Dr. Wei Zhang — Ph.D. (USTC) — Multimodal representation learning.</li>
+      </ul>
+    </div>
+    <div class="team-group">
+      <h3>Robust Learning & Security</h3>
+      <ul>
+        <li>Dr. Ming Xu — Ph.D. (SJTU) — Continual learning security.</li>
+        <li>Ms. Sara Rossi — M.Sc. (UNITN) — Privacy-preserving federated training.</li>
+      </ul>
+    </div>
+    <!-- Additional team-group blocks can be appended for new research directions -->
   </div>
 </div>
 
