@@ -47,7 +47,7 @@ My research interest includes continual/incremental/lifelong learning, federated
 <div class='paper-box-text' markdown="1">
 
 <strong>SeCoV2: Semantic Connectivity-driven Pseudo-Labeling for Robust Cross-Domain Semantic Segmentation</strong><br>
-                    Dong Zhao, Qi Zang, <strong>Nan Pu*</strong>, Shuang Wang, Nicu Sebe, Zhun Zhong. <br>
+                    Dong Zhao, Qi Zang, Nan Pu, Shuang Wang, Nicu Sebe, Zhun Zhong. <br>
                     Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2025.<br>
 </div>
 </div>
@@ -69,7 +69,7 @@ My research interest includes continual/incremental/lifelong learning, federated
 <div class='paper-box-text' markdown="1">
 
 <strong>Latent Space Learning Based Ensemble Clustering</strong><br>
-                    Yalan Qin, <strong>Nan Pu*</strong>, Nicu Sebe, Guorui Feng. <br>
+                    Yalan Qin, Nan Pu, Nicu Sebe, Guorui Feng. <br>
                     IEEE Transactions on Image Processing (<strong>TIP</strong>), 2025.<br>
 </div>
 </div>
