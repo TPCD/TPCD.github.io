@@ -247,16 +247,6 @@ Yalan Qin, <strong>Nan Pu</strong>, Hanzhou Wu<br>
 <div class='paper-box-text' markdown="1">
 
                   
-<strong>Learning a Domain-Invariant Embedding for Unsupervised Person Re-identification</strong><br>
-                    <strong>Nan Pu</strong>, T.K. Georgiou, Erwin M. Bakker and Michael S. Lew<br>
-                    2019 International Joint Conference on Neural Networks (<strong>IJCNN, Oral</strong>), 2019.
-                    <a href="pdfs/pu2019.pdf" target="_blank"><font face="Times New Roman" style="font-size: 10pt;">[PDF]</font></a>
-
-
-</div>
-</div>
-
-
 ##### (* denotes equal contribution and  † denotes corresponding author)
 
 <div class='paper-box'><div class="badge">🎉</div>
