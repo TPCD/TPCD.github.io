@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Nan Pu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Full Professor"
+#  bio              : "Full Professor"
   location         : "Hefei, China"
-  employer         : "Hefei University of Technology (HFUT)"
+  employer         : "HFUT"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=QBb2DjwAAAAJ"
   email            : "n.pu@outlook.com"
