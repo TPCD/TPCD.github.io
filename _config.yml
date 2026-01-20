@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Nan Pu"
-description              : "Full Professor"
+#description              : "Full Professor"
 repository               : "TPCD/TPCD.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Nan Pu"
   avatar           : "images/android-chrome-512x512.png"
-#  bio              : "Full Professor"
+  bio              : "Full Professor"
   location         : "Hefei, China"
   employer         : "HFUT"
   pubmed           : 
