@@ -11,12 +11,32 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I have recently been a postdoctoral researcher at the <a href="http://mhug.disi.unitn.it/#/">Multimedia and Human Understanding Group (MHUG)</a> of the University of Trento, and am fortunate to work closely with <a href="https://disi.unitn.it/~sebe/">Prof. Nicu Sebe</a> and <a href="https://zhunzhong.site/">Prof. Zhun Zhong</a>.
-Previously, I got Ph.D. degree from Leiden University in 2022, supervised by <a href="https://disi.unitn.it/~sebe/">Prof. Michael Lew</a>. During my Ph.D. study, I worked with <a href="https://liuyudut.github.io/">Prof. Yu Liu</a>.
+I am currently a Full Professor at Hefei University of Technology (HFUT).
+Previously, I worked as a postdoctoral researcher at the <a href="http://mhug.disi.unitn.it/#/">Multimedia and Human Understanding Group (MHUG)</a> of the University of Trento, and am fortunate to work closely with <a href="https://disi.unitn.it/~sebe/">Prof. Nicu Sebe</a> and <a href="https://zhunzhong.site/">Prof. Zhun Zhong</a>.
+I got Ph.D. degree from Leiden University in 2022, supervised by <a href="https://disi.unitn.it/~sebe/">Prof. Michael Lew</a>. During my Ph.D. study, I also had the valuable opportunity to work with <a href="https://liuyudut.github.io/">Prof. Yu Liu</a>.
 
 My research interest includes continual/incremental/lifelong learning, federated learning, and popular computer vision tasks like person re-identification, visual question answering and novel/new category discovery. 
 
-# 🔥 News
+# 🔥 Student Recruitment 🔥
+
+We are actively seeking motivated students with a strong passion for original research to join our group as MSc/PhD candidates, visiting students, or research interns. Ideal candidates should have a solid foundation in mathematics, good programming skills, proficiency in English, and a background in computing-related fields.
+
+- *2026 Intake (Starting September)*: Applications are now open for postgraduate recommendation, combined MSc-PhD programs, and PhD admissions through assessment. Early contact is encouraged. Selected students may join the group in advance for preliminary research training.
+
+- *Undergraduate Internships*: Open year-round. Interns will receive research mentorship, a stipend, and access to GPU resources.
+
+Send your CV and a brief statement of research interests to n.pu@outlook.com.
+
+Please use the email subject format: [Your Name]_[Application Type]_HFUT.
+Examples: [Jack_MSc_HFUT] 、 [Peter_PhD_HFUT] and [Leo_visiting_HFUT]
+
+We look forward to welcoming students who share our research vision.
+
+# 🔥 Faculty & Postdoc Positions 🔥
+Our group has ongoing openings for Professors, Associate Professors, Lecturers, and Postdoctoral Researchers. If you share our research interests and ambitions, please contact us directly via n.pu@outlook.com.
+
+# 🔥 News 🔥
+- *2026.01*: &nbsp;🎉🎉 I am delighted to join Hefei University of Technology (HFUT) as a Full Professor.
 
 - *2025.09*: &nbsp;🎉🎉 One paper is accepted by <strong>TPAMI 2025</strong>. Congratulation to Dong!
 
