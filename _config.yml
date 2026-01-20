@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Nan Pu"
-description              : "Postdoctoral Researcher of Deep Learning"
+description              : "Full Professor"
 repository               : "TPCD/TPCD.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Nan Pu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Multimedia and Human Understanding Group (MHUG)"
-  location         : "Trento, Italy"
-  employer         : "University of Trento"
+  bio              : "Full Professor"
+  location         : "Hefei, China"
+  employer         : "Hefei University of Technology (HFUT)"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=QBb2DjwAAAAJ"
-  email            : "nan.pu@unitn.it"
+  email            : "n.pu@outlook.com"
   researchgate     : "https://www.researchgate.net/profile/Nan-Pu" # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
