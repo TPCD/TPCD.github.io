@@ -17,6 +17,9 @@ I got Ph.D. degree from Leiden University in 2022, supervised by <a href="https:
 
 My research interest includes continual/incremental/lifelong learning, federated learning, and popular computer vision tasks like person re-identification, visual question answering and novel/new category discovery. 
 
+ <a href="http://faculty.hfut.edu.cn/punan/zh_CN/index/534098/list/index.htm" target="_blank"><font face="Times New Roman"
+                                                                                   style="font-size: 10pt;">[Chinese Homepage]</font></a>
+
 # 🔥 Student Recruitment 🔥
 
 We are actively seeking motivated students with a strong passion for original research to join our group as MSc/PhD candidates, visiting students, or research interns. Ideal candidates should have a solid foundation in mathematics, good programming skills, proficiency in English, and a background in computing-related fields.
